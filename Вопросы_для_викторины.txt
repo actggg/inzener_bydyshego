@@ -10,4 +10,3 @@
 Какой метод используется для обработки недостающих данных в наборах данных машинного обучения?;Масштабирование объектов;Нормализация данных;Вменение данных;Разработка объектов;3
 Что из перечисленного не является обучением под наблюдением?;PCA;Naive Bayesian;Linear Regression;Decision Tree;1
 Различные методы обучения не включают?;Аналогия;Вычет;Вступление;Запоминание;3
-Which of the following is not numerical functions in the various function representation of Machine Learning?;Neural Network;Case-based;Linear Regression;Support Vector Machines;2
